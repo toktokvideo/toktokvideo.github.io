@@ -8,7 +8,6 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
-
 #unity
 google.com, pub-2122622612748492, RESELLER
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
@@ -77,6 +76,5 @@ velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 unity.com, 1186870, DIRECT, 96cabb5fbdde37a7
-
 #admob
 google.com, pub-9944599804309334, DIRECT, f08c47fec0942fa0
