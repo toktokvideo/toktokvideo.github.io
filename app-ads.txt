@@ -78,3 +78,17 @@ spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
 unity.com, 1186870, DIRECT, 96cabb5fbdde37a7
 #admob
 google.com, pub-9944599804309334, DIRECT, f08c47fec0942fa0
+#reklamup
+google.com, pub-5610649146674306, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1972, RESELLER
+rubiconproject.com, 23778, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 23780, RESELLER, 0bfd66d529a55807
+adingo.jp, 25649, DIRECT
+pubmatic.com, 156313, RESELLER, 5d62403b186f2ace
+appnexus.com, 7044, RESELLER, f5ab79cb980f11d1
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+webeyemob.com, 70080, RESELLER
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161141, DIRECT, 5d62403b186f2ace
